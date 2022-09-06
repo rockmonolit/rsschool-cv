@@ -24,8 +24,9 @@ I believe my personal and professional qualities, as well as hands-on experience
 
 ## __Skills:__
 
+| ---                             | ---                                              |
 |:---                             |:---                                              |
-| **Programming:**                | HTML, CSS, JavaScript (Basic)
+| **Programming:**                | HTML, CSS, JavaScript (Basic)                    |
 | **Bug Tracking System:**        | left-aligned                                     | 
 | **Project Management Systems:** | Trello, Neaktor, Platrum                         |
 | **Test Case Management Tool:**  | TestRail                                         |
@@ -33,7 +34,7 @@ I believe my personal and professional qualities, as well as hands-on experience
 
 ---
 
-### __Code example:___
+### __Code example:__
 
 ```
 'use strict';
@@ -51,7 +52,7 @@ console.log(ages);
 
 ---
 
-### __Work experience:___
+### __Work experience:__
 
 **MusicMarket (More than 2 years)**
 
@@ -73,7 +74,7 @@ A month long practice as an assistant manager of the museum and an employee of t
 
 ---
 
-### __Education:___
+### __Education:__
 
 - 2012-2017. **International Humanitarian and Economic Institute**.
 
@@ -82,7 +83,7 @@ Specialty:
 
 Degree Certificate with Distinction: International relations specialist. Interpreter Consultant. (English, Spanish)
 
-- Portnov Computer School [Software QA Course](https://portnov.net/ru-2018/)
+- Portnov Computer School: [Software QA Course](https://portnov.net/ru-2018/)
 - [The Modern JavaScript Tutorial](https://javascript.info/) (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 

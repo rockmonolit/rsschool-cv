@@ -24,10 +24,10 @@ I believe my personal and professional qualities, as well as hands-on experience
 
 ## __Skills:__
 
-| ---                             | ---                                              |
+| Field | Knowledge |
 |:---                             |:---                                              |
 | **Programming:**                | HTML, CSS, JavaScript (Basic)                    |
-| **Bug Tracking System:**        | left-aligned                                     | 
+| **Bug Tracking System:**        | Jira                                             | 
 | **Project Management Systems:** | Trello, Neaktor, Platrum                         |
 | **Test Case Management Tool:**  | TestRail                                         |
 | **Other Tools:**                | Chrome DevTools, SmartCat, Trados, Cockos Reaper |
@@ -65,11 +65,14 @@ console.log(ages);
 *Responsibilities*: Written translation from/into English; Receiving and maintaining projects; Paperwork; Translation proofreading; Project management.
 
 **Museum complex of ancient crafts and technologies «Dudutki»**
+
 A month long practice as an assistant manager of the museum and an employee of the marketing department. 
 *Responsibilities*: Maintaining the pages of the museum complex in the social networks (in Russian and English languages); Oral and written translation; Management; Issues related to the preparations for The International Festival of Medieval Culture and Music «Our Grunwald».
 
 **Internships:**
+
 *October 2014*: internship as an interpreter for the national team of the Republic of Belarus at the Kickboxing World Championship in Bilbao (Spain).
+
 *May 2013*: internship as an interpreter for the national team of the Republic of Belarus at the Kickboxing World Cup in Szeged (Hungary).
 
 ---

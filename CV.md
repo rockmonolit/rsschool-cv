@@ -57,16 +57,19 @@ console.log(ages);
 **MusicMarket (More than 2 years)**
 
 *Position*: Content Manager.
+
 *Responsibilities*: Working with manuals in English; Writing articles on musical topics for the company website; Writing descriptions for new products; Data and project management; Bug tracking.
 
 **Professional Translators and Interpreters Guild/ProText (Almost 2 years)**
 
 *Position*: Translator Manager. 
+
 *Responsibilities*: Written translation from/into English; Receiving and maintaining projects; Paperwork; Translation proofreading; Project management.
 
 **Museum complex of ancient crafts and technologies «Dudutki»**
 
 A month long practice as an assistant manager of the museum and an employee of the marketing department. 
+
 *Responsibilities*: Maintaining the pages of the museum complex in the social networks (in Russian and English languages); Oral and written translation; Management; Issues related to the preparations for The International Festival of Medieval Culture and Music «Our Grunwald».
 
 **Internships:**

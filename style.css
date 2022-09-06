@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(146, 146, 146);
+  }
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+    font-weight: normal;
+    margin-left: 20%;
+ }
